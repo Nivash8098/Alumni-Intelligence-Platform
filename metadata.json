@@ -1,0 +1,6 @@
+{
+  "name": "Alumni Intelligence Platform",
+  "description": "Full-stack Alumni Tracking, Career Journey Analytics, and AI Report Platform for higher education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
